@@ -28,25 +28,26 @@ Here are some code snippets:
 ## Flutter
 ***
 ### lib/main.dart
-for this,we're going to use material.dart in the flutter package,
-which gives us [Material Design](https://material.io) right out of the box
+for this,we're going to use material.dart in the flutter package,  
+which gives us [Material Design](https://material.io) right out of the box   
 `import 'package:flutter/material.dart';`
 
 ***
 ### pubspec.yaml
+Cupertion_icons is a package in flutter
 `cupertion_icons: ^0.1.3`
 
 ***
 
 ## React
 ***
-for this,we're going to use [Material Design] but we're going to put into our public/index.html file
+for this,we're going to use [Material Design](https://material.io),[Materialize.css](https://materializecss.com/) (based around Material Design) and [Material-UI](https://material-ui.com) but we're going to put into our public/index.html file   
 
 ### public/index.html
-Use this in development:
-`<script src="https://unpkg.com/@material-ui/core@latest/umd/material-ui.development.js"></script>`
-***
-Use this in production:
+Use this in development:  
+`<script src="https://unpkg.com/@material-ui/core@latest/umd/material-ui.development.js"></script>`  
+
+Use this in production:   
 `<script src="https://unpkg.com/@material-ui/core@latest/umd/material-ui.production.js"></script>`
 
 
@@ -55,8 +56,22 @@ Use this in production:
 for this,we're going to use [Material Design] but we're going to put into our public/index.html file
 
 ### public/index.html
+   
+   
 Use this in development:
-`<script src="https://unpkg.com/@material-ui/core@latest/umd/material-ui.development.js"></script>`
-***
+`<script src="https://unpkg.com/@material-ui/core@latest/umd/material-ui.development.js"></script>`  
+
 Use this in production:
-`<script src="https://unpkg.com/@material-ui/core@latest/umd/material-ui.production.js"></script>`
+`<script src="https://unpkg.com/@material-ui/core@latest/umd/material-ui.production.js"></script>`  
+
+## Requirements
+***
+- A code editor like [VsCode](https://code.visualstudio.com) or Flutter IDE like [Android Studio](https:///developer.android.com)
+- [Flutter SDK](https://flutter.dev)
+- [Node](https://nodejs.org)
+
+## Coming soon
+- [] Make React Native Tutorial
+- [] Make React Tutorial
+- [] Make Web Tutorial
+- [] Make Flutter Tutorial
