@@ -71,7 +71,7 @@ Use this in production:
 - [Node](https://nodejs.org)
 
 ## Coming soon
-- [] Make React Native Tutorial
+- [x] Make React Native Tutorial
 - [] Make React Tutorial
 - [] Make Web Tutorial
 - [] Make Flutter Tutorial
