@@ -72,6 +72,6 @@ Use this in production:
 
 ## Coming soon
 - [x] Make React Native Tutorial
-- [] Make React Tutorial
-- [] Make Web Tutorial
-- [] Make Flutter Tutorial
+- [x] Make React Tutorial
+- [x] Make Web Tutorial
+- [x] Make Flutter Tutorial
